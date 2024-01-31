@@ -1,4 +1,6 @@
-const add=require('./Calculator');
+const Calculator=require('./Calculator');
 
-add(2,5);
-
+Calculator.addition(2,5);
+Calculator.multiplication(3,7);
+Calculator.division(6,3);
+Calculator.subtraction(89,56);

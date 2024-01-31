@@ -7,3 +7,4 @@ figlet("Mouse", function (err, data) {
     }
     console.log(data);
   });
+  
