@@ -1,0 +1,14 @@
+{
+  "name": "day6question",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Express_Route_Handling.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikita",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
